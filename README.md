@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sage 
-- 👀 I’m interested in data
+- 👋 Hi, I’m @vish
+- 👀 I’m interested in data.
 - 🌱 I’m currently trying out Python and Rust.
 - 💼 I'm currenly working as data engineer.
 - 💞️ I’m looking to collaborate on backend related technologies.
